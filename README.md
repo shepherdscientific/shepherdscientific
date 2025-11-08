@@ -6,8 +6,16 @@
 Danish/Nigerian dual citizen based in Lagos.
 
 ---
-
+<!--
 ## Selected Open Source Work
+### 📡 SignalBeam - ESP32 Webhook Notification Display
+[Live Repo] | Hardware project for real-time webhook visualization using LED matrix displays.
+
+**Stack**: C++, ESP32, GitHub Integration  
+**Use Case**: DevOps monitoring, notification systems
+
+---
+-->
 <!-- [//] ### 🔐 Fraud Detection Architecture
 [//] Model Context Protocol (MCP) framework for financial fraud detection with ultra-low-latency 
 [//] rule evaluation. Built for high-transaction banking environments.
@@ -27,13 +35,6 @@ access control, and cross-chain deployment orchestration.
 [//] 
 [//] ---
 -->
-### 📡 SignalBeam - ESP32 Webhook Notification Display
-[Live Repo] | Hardware project for real-time webhook visualization using LED matrix displays.
-
-**Stack**: C++, ESP32, GitHub Integration  
-**Use Case**: DevOps monitoring, notification systems
-
----
 
 ## Technical Background
 
