@@ -156,6 +156,9 @@ Automotive Powertrains, IoT Devices
 ## 📜 Certifications
 
 - **Certified Blockchain Auditor** (Expected: December 2025)
+- [Google Cloud Big Data and Machine Learning Fundamentals, Oct 2021](https://www.coursera.org/account/accomplishments/certificate/XS4YRDQUBMHY) 
+- [How does Google Machine Learning Work, Oct 2021](https://www.coursera.org/account/accomplishments/certificate/RZEYQXVT4AT3)
+- [Launching into Machine Learning, Nov 2021](https://www.coursera.org/account/accomplishments/certificate/QJLAQHPPHH3D)
 - **B.Sc.Eng (Hons)** - Electrical and Computer Engineering, University of Southern Denmark (2002)
 
 ---
