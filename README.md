@@ -11,7 +11,7 @@ Danish/Nigerian dual citizen 🇩🇰🇳🇬 | Based in Lagos | Available globa
 
 ## 🔨 Selected Open Source Work
 
-### 🤖 Claude Code Automation Template
+<!-- ### 🤖 Claude Code Automation Template
 *Coming December 2025*
 
 Production-ready template for automated code generation and SDLC workflows using Claude AI. 
@@ -35,7 +35,7 @@ Enables "code while you sleep" autonomous development with proper safety rails a
 - Teams wanting to leverage AI without losing control
 
 ---
-
+-->
 ### 📊 BadDocs - AI-Powered Documentation Tool
 *Coming December 2025*
 
@@ -72,17 +72,55 @@ GitHub integration, and custom notification pipelines.
 **Status**: Hardware tested, software refinement
 
 ---
+<!--
+## 🔬 Blockchain Research & Reference Implementations
+*Educational implementations and architecture patterns*
 
-## 🏦 Banking & DeFi Infrastructure (2024-2025)
-*Private repositories - Available for discussion under NDA*
+### DeFi Trading Strategies
+Reference implementations for cryptocurrency arbitrage detection and execution across DEXs. 
+Includes MEV (Maximal Extractable Value) awareness and gas optimization strategies.
 
-Recent work includes:
-- **Predictive AI fraud detection** system for banking environment
-<!-- **Central Banking Aggregator** integration (NIBSS/NCUBE CBA)
-- **Wallet-as-a-Service** platform architecture -->
-- **Autonomous agentic workflows** for SDLC automation
+**Topics**: Cross-DEX arbitrage, flash loans, triangular arbitrage, slippage calculation
 
-Contributions visible in private Baige-Wallet organization repositories.
+### DAO Governance Frameworks
+Modular DAO architecture patterns with various voting mechanisms (token-weighted, quadratic, 
+conviction voting) and treasury management strategies.
+
+**Topics**: On-chain governance, proposal systems, timelock execution, multi-sig integration
+
+### Token Distribution Systems
+Airdrop mechanisms, vesting schedules, and merkle tree-based claim systems with sybil 
+resistance patterns.
+
+**Topics**: Merkle airdrops, linear/cliff vesting, snapshot strategies, fair launch patterns
+
+### Consensus Mechanisms
+Educational implementations of PoW, PoS, and hybrid consensus with focus on understanding 
+tradeoffs and attack vectors.
+
+**Topics**: Mining difficulty adjustment, validator selection, slashing conditions, finality
+
+### Fundraising Smart Contracts
+ICO/IDO mechanisms, bonding curves, Dutch auctions, and token sale patterns with proper 
+access control and emergency mechanisms.
+
+**Topics**: Price discovery, contribution caps, refund mechanisms, vesting integration
+
+*These are reference implementations for educational purposes. Production use requires 
+comprehensive auditing and customization.*
+
+---
+-->
+## 🏦 Blockchain & Financial Infrastructure Experience
+*Architecture and consulting work - specific implementations under NDA*
+
+Recent professional work includes:
+- **PoW/PoS consensus Architecture**: Designed compliant multichain infrastructure with UUPS proxy patterns and regulatory compliance frameworks
+- **AI Fraud Detection**: Built predictive systems for high-transaction banking environments with real-time risk assessment
+- **Banking Integration**: Core banking system architecture and payment processing infrastructure
+- **Product Stabilization**: Took high-disruption products to zero critical incidents through systematic engineering
+
+*Available to discuss architecture patterns and problem-solving approaches in detail*
 
 ---
 
