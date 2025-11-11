@@ -2,81 +2,74 @@
 
 **Systems Architect | Blockchain Infrastructure | AI/ML Engineering**
 
-20+ years building production systems from embedded automotive (Bosch Engineering) to DeFi infrastructure. 
+Building production-grade systems from embedded automotive (Bosch Engineering) to DeFi infrastructure. 
 Specialized in compliant financial systems, fraud detection, and multichain architecture.
 
 Danish/Nigerian dual citizen 🇩🇰🇳🇬 | Based in Lagos | Available globally
 
 ---
-<!--
+
 ## 🔨 Selected Open Source Work
-Coming Soon
 
-### 🔐 Fraud Detection Architecture
-Model Context Protocol (MCP) framework for financial fraud detection with ultra-low-latency 
-rule evaluation. Designed for high-transaction banking environments requiring real-time 
-risk assessment without sacrificing user experience.
+### 🤖 Claude Code Automation Template
+*Coming December 2025*
 
-**Stack**: Python, Go, ML/AI  
-**Features**: State management, predictive scoring, behavioral analysis  
-**Status**: Reference implementation Q1 2026
+Production-ready template for automated code generation and SDLC workflows using Claude AI. 
+Enables "code while you sleep" autonomous development with proper safety rails and review gates.
+
+**Stack**: Python, Claude API, Git integration  
+**Use cases**: Autonomous feature development, test generation, code review automation  
+**Status**: Preparing for public release
 
 **Key innovations:**
-- Ultra-low-latency Go rules engine (<5ms evaluation)
-- Python MCP for complex state management
-- Pluggable model architecture for continuous improvement
-- Regulatory compliance framework
+- Autonomous workflow orchestration with human oversight gates
+- Rollback mechanisms and safety checks
+- Integration with existing Git workflows
+- Comprehensive logging and audit trails
+- Template-driven code generation
+
+**Perfect for:**
+- Automating repetitive development tasks
+- Accelerating prototyping and MVP development
+- Maintaining consistency across large codebases
+- Teams wanting to leverage AI without losing control
 
 ---
 
-### 💰 Stablecoin Reference Implementation
+### 📊 BadDocs - AI-Powered Documentation Tool
 *Coming December 2025*
 
-Compliant multichain stablecoin architecture with UUPS upgradeable proxy pattern, role-based 
-access control, and cross-chain deployment orchestration. Built to meet regulatory requirements 
-while maintaining DeFi composability.
+Intelligent documentation generation and management system that helps teams maintain high-quality 
+technical documentation without the usual friction. Built after experiencing too many projects 
+with outdated or missing docs.
 
-**Stack**: Solidity, Hardhat, Foundry  
-**Chains**: Avalanche, Tron (extensible architecture)  
-**Status**: Testnet deployment examples coming Dec 2025
+**Stack**: Python, LLM Integration, Markdown  
+**Features**: Smart content generation, quality metrics, workflow integration  
+**Status**: Preparing for public release
 
-**Architecture highlights:**
-- UUPS (Universal Upgradeable Proxy Standard) for safe upgrades
-- Granular role-based access control (RBAC)
-- Emergency pause mechanisms
-- Cross-chain message passing patterns
-- Compliance hooks for KYC/AML integration
+---
 
-**Use cases:**
-- Remittance corridors
-- Treasury management
-- Cross-border B2B payments
-- DeFi protocol integration
+### 🚀 Optimized SSSP Implementation
+*Active Development*
+
+Research implementation of optimized Single-Source Shortest Path algorithms, progressing from 
+classical Dijkstra toward structured paths achieving O(m log^{2/3} n) complexity.
+
+**Stack**: Python/C++ (performance-critical sections)  
+**Focus**: Algorithm optimization, graph theory, benchmarking  
+**Status**: Implementation phase, comprehensive test suite development
 
 ---
 
 ### 📡 SignalBeam - ESP32 Webhook Notification Display
-*Coming Soon*
+*Coming Q1 2026*
 
 Real-time webhook visualization system using LED matrix displays. Built for DevOps monitoring,
 GitHub integration, and custom notification pipelines.
 
-**Stack**: C++, ESP32, WebSockets  
-**Integrations**: GitHub webhooks, generic REST APIs  
-**Hardware**: ESP32, MAX7219 LED matrix
-
-**Features:**
-- Real-time webhook processing
-- Customizable display patterns
-- Low-power operation
-- WiFi configuration portal
-- Multiple notification sources
-
-**Perfect for:**
-- CI/CD pipeline monitoring
-- Deployment notifications
-- System health dashboards
-- Custom alert systems
+**Stack**: C++, ESP32, WebSockets, REST APIs  
+**Hardware**: ESP32, MAX7219 LED matrix  
+**Status**: Hardware tested, software refinement
 
 ---
 
@@ -85,14 +78,14 @@ GitHub integration, and custom notification pipelines.
 
 Recent work includes:
 - **Predictive AI fraud detection** system for banking environment
-- **Central Banking Aggregator** integration (NIBSS/NCUBE CBA)
-- **Wallet-as-a-Service** platform architecture
+<!-- **Central Banking Aggregator** integration (NIBSS/NCUBE CBA)
+- **Wallet-as-a-Service** platform architecture -->
 - **Autonomous agentic workflows** for SDLC automation
 
 Contributions visible in private Baige-Wallet organization repositories.
 
 ---
--->
+
 ## 💡 Technical Background
 
 **Current Focus:**
@@ -102,9 +95,9 @@ Contributions visible in private Baige-Wallet organization repositories.
 - Web3 security and smart contract auditing
 
 **Previous Work:**
-- **Bosch Engineering GmbH** (2002-2007): Embedded diesel powertrain systems, production automotive solutions for Daimler Chrysler
-- **GRIT Systems Engineering** (2015-2024): IoT energy metering, blockchain-based P2P electricity trading research
-- **Incognition R&D** (2008-2010): Digital financial services, investment product platforms
+- **Bosch Engineering**: Embedded diesel powertrain systems, production automotive solutions for major OEMs
+- **GRIT Systems Engineering**: IoT energy metering, blockchain-based P2P electricity trading research  
+- **Digital Financial Services**: Investment product platforms and payment systems architecture
 
 **Teaching & Mentorship:**
 Alumni from teams I've built have gone on to:
@@ -156,9 +149,6 @@ Automotive Powertrains, IoT Devices
 ## 📜 Certifications
 
 - **Certified Blockchain Auditor** (Expected: December 2025)
-- [Google Cloud Big Data and Machine Learning Fundamentals, Oct 2021](https://www.coursera.org/account/accomplishments/certificate/XS4YRDQUBMHY) 
-- [How does Google Machine Learning Work, Oct 2021](https://www.coursera.org/account/accomplishments/certificate/RZEYQXVT4AT3)
-- [Launching into Machine Learning, Nov 2021](https://www.coursera.org/account/accomplishments/certificate/QJLAQHPPHH3D)
 - **B.Sc.Eng (Hons)** - Electrical and Computer Engineering, University of Southern Denmark (2002)
 
 ---
