@@ -49,7 +49,7 @@ with outdated or missing docs.
 
 ---
 
-### 🚀 Optimized SSSP Implementation
+### [🚀 Optimized SSSP Implementation](https://github.com/shepherdscientific/optimized-sssp/)
 *Active Development*
 
 Research implementation of optimized Single-Source Shortest Path algorithms, progressing from 
