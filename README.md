@@ -55,7 +55,7 @@ with outdated or missing docs.
 Research implementation of optimized Single-Source Shortest Path algorithms, progressing from 
 classical Dijkstra toward structured paths achieving O(m log^{2/3} n) complexity.
 
-**Stack**: Python/C++ (performance-critical sections)  
+**Stack**: Rust
 **Focus**: Algorithm optimization, graph theory, benchmarking  
 **Status**: Implementation phase, comprehensive test suite development
 
