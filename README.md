@@ -115,7 +115,7 @@ comprehensive auditing and customization.*
 *Architecture and consulting work - specific implementations under NDA*
 
 Recent professional work includes:
-- **PoW/PoS consensus Architecture**: Designed compliant multichain infrastructure with UUPS proxy patterns and regulatory compliance frameworks
+- **Smart Contract Architecture**: Designed upgradeable proxy patterns (UUPS), role-based access control systems, and regulatory compliance frameworks for financial applications
 - **AI Fraud Detection**: Built predictive systems for high-transaction banking environments with real-time risk assessment
 - **Banking Integration**: Core banking system architecture and payment processing infrastructure
 - **Product Stabilization**: Took high-disruption products to zero critical incidents through systematic engineering
