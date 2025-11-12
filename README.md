@@ -11,31 +11,36 @@ Danish/Nigerian dual citizen 🇩🇰🇳🇬 | Based in Lagos | Available globa
 
 ## 🔨 Selected Open Source Work
 
-<!-- ### 🤖 Claude Code Automation Template
-*Coming December 2025*
+### [🤖 Claude Code Automation Template](https://github.com/shepherdscientific/claude-code-automation-template)
 
-Production-ready template for automated code generation and SDLC workflows using Claude AI. 
-Enables "code while you sleep" autonomous development with proper safety rails and review gates.
+[![License: SSPL](https://img.shields.io/badge/License-SSPL-blue.svg)](LICENSE)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-8-purple)](.claude/commands)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success)](README.md)
 
-**Stack**: Python, Claude API, Git integration  
-**Use cases**: Autonomous feature development, test generation, code review automation  
-**Status**: Preparing for public release
+Production-ready template implementing agentic AI development workflows for Claude Code. Features 8 specialized AI agents, autonomous orchestration, and intelligent MCP server discovery.
 
-**Key innovations:**
-- Autonomous workflow orchestration with human oversight gates
-- Rollback mechanisms and safety checks
-- Integration with existing Git workflows
-- Comprehensive logging and audit trails
-- Template-driven code generation
+**Stack:** Claude Code, Bash, Markdown, JSON
+**Core Features:** Spec-driven development, persistent AI memory, 4-level automation
+**Unique Innovation:** World's first automated MCP server scanner
 
-**Perfect for:**
-- Automating repetitive development tasks
-- Accelerating prototyping and MVP development
-- Maintaining consistency across large codebases
-- Teams wanting to leverage AI without losing control
+**8 AI Agents:**
+- Autonomous workflow orchestrator (25-iteration runs)
+- Template adaptation engine
+- MCP server discovery & recommendation
+- Spec creator, coder, test designer, validator, queue manager
+
+**Perfect For:**
+- Autonomous feature development with safety rails
+- Overnight batch implementation (3-10 specs)
+- AI-powered project setup and customization
+- Teams wanting structured AI workflows
+
+Enables true "code while you sleep" development with proper oversight, rollback mechanisms, and comprehensive audit trails. Template-driven, customizable, and secure.
+
+[View on GitHub →](https://github.com/shepherdscientific/claude-code-automation-template)
 
 ---
--->
+
 ### 📊 BadDocs - AI-Powered Documentation Tool
 *Coming December 2025*
 
@@ -47,6 +52,7 @@ with outdated or missing docs.
 **Features**: Smart content generation, quality metrics, workflow integration  
 **Status**: Preparing for public release
 
+[View on GitHub →]
 ---
 
 ### [🚀 Optimized SSSP Implementation](https://github.com/shepherdscientific/optimized-sssp/)
@@ -59,6 +65,7 @@ classical Dijkstra toward structured paths achieving O(m log^{2/3} n) complexity
 **Focus**: Algorithm optimization, graph theory, benchmarking  
 **Status**: Implementation phase, comprehensive test suite development
 
+[View on GitHub →](https://github.com/shepherdscientific/optimized-sssp/)
 ---
 
 ### 📡 SignalBeam - ESP32 Webhook Notification Display
@@ -70,7 +77,7 @@ GitHub integration, and custom notification pipelines.
 **Stack**: C++, ESP32, WebSockets, REST APIs  
 **Hardware**: ESP32, MAX7219 LED matrix  
 **Status**: Hardware tested, software refinement
-
+[View on GitHub →]
 ---
 <!--
 ## 🔬 Blockchain Research & Reference Implementations
