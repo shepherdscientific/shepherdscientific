@@ -53,8 +53,8 @@ with outdated or missing docs.
 **Status**: Preparing for public release
 
 [View on GitHub →]
----
 
+---
 ### [🚀 Optimized SSSP Implementation](https://github.com/shepherdscientific/optimized-sssp/)
 *Active Development*
 
@@ -66,8 +66,8 @@ classical Dijkstra toward structured paths achieving O(m log^{2/3} n) complexity
 **Status**: Implementation phase, comprehensive test suite development
 
 [View on GitHub →](https://github.com/shepherdscientific/optimized-sssp/)
----
 
+---
 ### 📡 SignalBeam - ESP32 Webhook Notification Display
 *Coming Q1 2026*
 
@@ -78,6 +78,7 @@ GitHub integration, and custom notification pipelines.
 **Hardware**: ESP32, MAX7219 LED matrix  
 **Status**: Hardware tested, software refinement
 [View on GitHub →]
+
 ---
 <!--
 ## 🔬 Blockchain Research & Reference Implementations
