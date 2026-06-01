@@ -20,9 +20,9 @@ Danish/Nigerian dual citizen 🇩🇰🇳🇬 | Based in Lagos | Available globa
 | [auto-vision-cut](https://github.com/shepherdscientific/auto-vision-cut) | Python, MLX | Active | ⚠️ Partial | MIT |
 | [neural-spatial-upscaler](https://github.com/shepherdscientific/neural-spatial-upscaler) | Verilog, HLS | Design phase | ❌ No | CERN-OHL-S v2 |
 | [llama-server-tuning](https://github.com/shepherdscientific/llama-server-tuning) | Bash, Python | Active | ✅ Yes | GPL-3.0 |
-| [printserver](https://github.com/shepherdscientific/printserver) | C, ESP-IDF | Active | ⚠️ Partial | MIT |
+| [esp32-wireless-printserver](https://github.com/shepherdscientific/esp32-wireless-printserver) | C, ESP-IDF | Active | ⚠️ Partial | MIT |
 | [repo-matrix-appscript](https://github.com/shepherdscientific/repo-matrix-appscript) | Node.js, Apps Script | Active | ⚠️ Partial | MIT |
-| [optimized-sssp](https://github.com/shepherdscientific/optimized-sssp/) | Rust | Active | ⚠️ Partial | — |
+| [optimized-sssp](https://github.com/shepherdscientific/optimized-sssp/) | Rust | Active | ⚠️ Partial | GPL-3.0 |
 | BadDocs | Python, LLM | In development | ❌ No | Private |
 
 ---
@@ -142,7 +142,7 @@ Benchmarking and tuning helpers for `llama-server` on local inference machines. 
 
 ---
 
-### [🖨️ printserver — ESP32 WiFi→Ethernet Print Bridge](https://github.com/shepherdscientific/printserver)
+### [🖨️ esp32-wireless-printserver — WiFi→Ethernet Print Bridge](https://github.com/shepherdscientific/esp32-wireless-printserver)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-yellow)](README.md)
@@ -155,7 +155,7 @@ Firmware bridge between a modern WiFi network and a legacy wired printer, using 
 **Protocols:** Raw TCP 9100 · mDNS · IPP/AirPrint · Captive portal config  
 **Features:** NVS config persistence, HTTP config web form, WiFi auto-reconnect with exponential backoff
 
-[View on GitHub →](https://github.com/shepherdscientific/printserver)
+[View on GitHub →](https://github.com/shepherdscientific/esp32-wireless-printserver)
 
 ---
 
@@ -177,6 +177,9 @@ Google Sheets + Apps Script dashboard that tracks repo health across GitHub (and
 ---
 
 ### [🚀 Optimized SSSP Implementation](https://github.com/shepherdscientific/optimized-sssp/)
+
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-yellow)](README.md)
 
 Research implementation of optimized Single-Source Shortest Path algorithms, progressing from classical Dijkstra toward structured paths achieving O(m log^{2/3} n) complexity.
 
