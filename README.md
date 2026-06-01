@@ -11,17 +11,17 @@ Danish/Nigerian dual citizen 🇩🇰🇳🇬 | Based in Lagos | Available globa
 
 ## 🗺️ Project Matrix
 
-| Repo | Stack | Status | Tested | Open Source |
-|------|-------|--------|--------|-------------|
+| Repo | Stack | Status | Tested | License |
+|------|-------|--------|--------|---------|
 | [mr-wiggum](https://github.com/shepherdscientific/mr-wiggum) | Bash, JSON | Active | ✅ Yes | MIT |
-| [bio-agi](https://github.com/shepherdscientific/bio-agi) | Python, LIF sim | Active | ✅ Yes | — |
+| [bio-agi](https://github.com/shepherdscientific/bio-agi) | Python, LIF sim | Active | ✅ Yes | MIT |
 | [wallet-hardware](https://github.com/shepherdscientific/wallet-hardware) | C++, ESP32 | Lab eval | ✅ Yes | CERN-OHL-S v2 |
 | [pqc-secure-element](https://github.com/shepherdscientific/pqc-secure-element) | Verilog, RISC-V | Phase 2 | ⚠️ Partial | CERN-OHL-S v2 |
-| [auto-vision-cut](https://github.com/shepherdscientific/auto-vision-cut) | Python, MLX | Active | ⚠️ Partial | — |
+| [auto-vision-cut](https://github.com/shepherdscientific/auto-vision-cut) | Python, MLX | Active | ⚠️ Partial | MIT |
 | [neural-spatial-upscaler](https://github.com/shepherdscientific/neural-spatial-upscaler) | Verilog, HLS | Design phase | ❌ No | CERN-OHL-S v2 |
 | [llama-server-tuning](https://github.com/shepherdscientific/llama-server-tuning) | Bash, Python | Active | ✅ Yes | GPL-3.0 |
-| [printserver](https://github.com/shepherdscientific/printserver) | C, ESP-IDF | Active | ⚠️ Partial | — |
-| [repo-matrix-appscript](https://github.com/shepherdscientific/repo-matrix-appscript) | Node.js, Apps Script | Active | ⚠️ Partial | — |
+| [printserver](https://github.com/shepherdscientific/printserver) | C, ESP-IDF | Active | ⚠️ Partial | MIT |
+| [repo-matrix-appscript](https://github.com/shepherdscientific/repo-matrix-appscript) | Node.js, Apps Script | Active | ⚠️ Partial | MIT |
 | [optimized-sssp](https://github.com/shepherdscientific/optimized-sssp/) | Rust | Active | ⚠️ Partial | — |
 | BadDocs | Python, LLM | In development | ❌ No | Private |
 
@@ -31,6 +31,7 @@ Danish/Nigerian dual citizen 🇩🇰🇳🇬 | Based in Lagos | Available globa
 
 ### [🧠 bio-agi — Biology-Grounded AGI Scaffold](https://github.com/shepherdscientific/bio-agi)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success)](README.md)
 [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20LIF%20Sim-blue)](README.md)
 
@@ -52,7 +53,7 @@ FlyWire mapped the complete wiring of an adult *Drosophila* brain — 138,000 ne
 
 ### [🔁 Mr. Wiggum — Multi-tool Autonomous AI Agent Loop](https://github.com/shepherdscientific/mr-wiggum)
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Fork of Ralph](https://img.shields.io/badge/Fork%20of-snarktank%2Fralph-orange)](https://github.com/snarktank/ralph)
 [![Status](https://img.shields.io/badge/Status-Active-success)](README.md)
 
@@ -73,6 +74,7 @@ A heavily extended fork of [Ralph](https://github.com/snarktank/ralph) — the a
 
 ### [🎬 AutoVisionCut — Local Vision-to-Edit Pipeline](https://github.com/shepherdscientific/auto-vision-cut)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-yellow)](README.md)
 [![Platform](https://img.shields.io/badge/Platform-Apple%20Silicon-lightgrey)](README.md)
 
@@ -142,6 +144,7 @@ Benchmarking and tuning helpers for `llama-server` on local inference machines. 
 
 ### [🖨️ printserver — ESP32 WiFi→Ethernet Print Bridge](https://github.com/shepherdscientific/printserver)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-yellow)](README.md)
 [![Stack](https://img.shields.io/badge/Stack-C%20%7C%20ESP--IDF-lightgrey)](README.md)
 
@@ -158,6 +161,7 @@ Firmware bridge between a modern WiFi network and a legacy wired printer, using 
 
 ### [📊 repo-matrix-appscript — Repo Health Dashboard](https://github.com/shepherdscientific/repo-matrix-appscript)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-yellow)](README.md)
 [![Stack](https://img.shields.io/badge/Stack-Node.js%20%7C%20Apps%20Script-blue)](README.md)
 
